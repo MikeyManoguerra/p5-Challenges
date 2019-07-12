@@ -10,16 +10,16 @@ function setup(){
 function draw(){
 	background(210);
 	movingHorizontalLine();
-	disappearingLine(50);
-	disappearingLine(100);
-	disappearingLine(150);
-	disappearingLine(200);
-	disappearingLine(250);
+	fixedLine(50);
+	fixedLine(100);
+	fixedLine(150);
+	fixedLine(200);
+	fixedLine(250);
 
 
 }
 
-function disappearingLine(yPlacement){
+function fixedLine(yPlacement){
 	//  create the conditions for disappearing line, and using its parameter as its vertical position
 	strokeWeight(2);
 	if(yValue > yPlacement){

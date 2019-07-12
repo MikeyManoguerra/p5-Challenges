@@ -9,10 +9,10 @@ function setup(){
 function draw(){
 	background(210);
 	movingHorizontalLine();
-	disappearingLine();
+	fixedLine();
 }
 
-function disappearingLine(){
+function fixedLine(){
 	strokeWeight(2);
 	if(yValue > 150){
 		strokeWeight(0); 

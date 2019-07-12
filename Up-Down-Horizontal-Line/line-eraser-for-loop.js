@@ -10,22 +10,22 @@ function setup(){
 function draw(){
 	background(210);
 	movingHorizontalLine();
-	createDisappearingLinesWithForLoop();
+	createfixedLinesWithForLoop();
 
 }
 
-function createDisappearingLinesWithForLoop(){
+function createfixedLinesWithForLoop(){
 	// creates 5 lines by calling dissappearingLine 5 times
 	// to get the yPlacement, multiply i * 50
 
 	for (let i = 1 ; i < 6; i++) {
 		let yPlacement = i * 50;
-	 	disappearingLine(yPlacement)
+	 	fixedLine(yPlacement)
 	}
 }
 
 
-function disappearingLine(yPlacement){
+function fixedLine(yPlacement){
 	strokeWeight(2);
 	if(yValue > yPlacement){
 		strokeWeight(0);
