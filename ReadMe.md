@@ -1,6 +1,6 @@
 # Here are some supplimental P5 challenges I have created. Try to complete them without looking at the example code!
 
-## Up and Down Horizontal line
+## 1. Up and Down Horizontal line
 
 ### have a horizontal line move back and forth from top to bottom of screen
 ### Have a fixed horizontal line in the center of the screen. as the bouncing line moves from above to below the fixed line, make the fixed line 
