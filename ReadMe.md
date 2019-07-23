@@ -14,3 +14,15 @@
 ### refactor the  multiple dissappearing lines, calling fixedLine iteratively  using a for loop
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
+
+
+## 2. circles on lines
+
+### have an ellipse move across the screen, as it does it erases a line . when it bounces back, the line reapppears
+### have a circle move back and forth across a line. the circle has noFill() applied to it. There is no line seen inside the circle
+
+### can you get a circle to trace the path of a square on the page
+
+### can you get the circle to follow trace the path of a square, while also seeing that square on the page?
+
+### can you your moving circle have no fill, and you not see the line inside the circle
