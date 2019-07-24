@@ -26,3 +26,4 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
 ### can you get the circle to follow trace the path of a square, while also seeing that square on the page?
 
 ### can you your moving circle have no fill, and you not see the line inside the circle
+- I did not do this one yet, but i know how to plan to. let me know if you get this far
