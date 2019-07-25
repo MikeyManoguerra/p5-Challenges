@@ -1,6 +1,6 @@
 
 
-### [link to extra resources]
+### [link to extra resources](https://github.com/MikeyManoguerra/p5-Challenges/blob/master/RESOURCES.md)
 
 # Here are some supplimental P5 challenges I have created. Try to complete them without looking at the example code!
 
