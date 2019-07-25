@@ -2,8 +2,8 @@
 
 ### JAVASCRIPT
 
-(Odin project)[https://www.theodinproject.com/courses/javascript]
-(free JS book)[http://eloquentjavascript.net/00_intro.html]
+[Odin project](https://www.theodinproject.com/courses/javascript)
+[free JS book](http://eloquentjavascript.net/00_intro.html)
 variables			https://www.tutorialspoint.com/es6/es6_variables.htm
 functions			http://speakingjs.com/es5/ch15.html
 conditionals		https://www.learn-js.org/en/Conditions
