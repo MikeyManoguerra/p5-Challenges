@@ -1,3 +1,7 @@
+
+
+### [link to extra resources]
+
 # Here are some supplimental P5 challenges I have created. Try to complete them without looking at the example code!
 
 ## 1. Up and Down Horizontal line
