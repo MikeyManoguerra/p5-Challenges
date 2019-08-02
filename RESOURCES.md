@@ -1,5 +1,10 @@
 ## EXTRA RESOURCES
 
+## p5.js
++ small p5 course, have not looked into it much http://coursescript.com/notes/interactivecomputing/index.html
++ Coding train video series from class https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
+
+
 ### JAVASCRIPT
 
 + [Odin project](https://www.theodinproject.com/courses/javascript)
